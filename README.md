@@ -14,5 +14,5 @@ Basic Create, Read, Update, and Delete functionality for both users and roles.
 The project is built using Bootstrap for a responsive and user-friendly interface, allowing easy interaction with the system.
 ## Security: 
 Basic role-based access control (RBAC) to ensure that only authorized users can perform actions like creating, editing, or deleting users and roles.
-
+[image description](output.png)
 This project was developed within a limited time frame and serves as a foundational structure for user and role management, which can be further expanded with advanced features like permission management, authentication, and more.
